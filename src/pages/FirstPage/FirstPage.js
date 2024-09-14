@@ -116,14 +116,7 @@ const FirstPage = () => {
                 type: "spring",
               }}
             >
-              <Image
-                src="/image 1.png"
-                width={1000}
-                height={1000}
-                className="w-auto h-auto relative max-lg:w-[100%]"
-                alt="img"
-                priority
-              />
+         
             </motion.div>
             <div className="absolute top-0 max-md:top-[77px] right-auto overflow-hidden">
               <svg
